@@ -22,6 +22,8 @@ for i=1:length(g)
     p(i)=0;
 end
 % =========================================================================
-
+%Optimised solution (Scalable solution for other vectors)
+%p=(sigmoid(X*theta)>=0.5)
+%Created by Hebba Quraishi
 
 end
